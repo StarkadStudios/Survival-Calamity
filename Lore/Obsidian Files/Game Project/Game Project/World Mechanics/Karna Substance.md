@@ -1,0 +1,3 @@
+Karna Substance is the matter that makes the up majority of [[Lellia]]'s core, it is both responsible for making humans and giving them [[Heat]]. Although, when thinking of Karna Substance its better to not think of humans and Heat as two different things. Humans' bodies are entirely comprised of Heat, its what gives them physical shape. Heat to humans is both their physical and spiritual essence. 
+
+Karna Substance is the antithesis of Torrum Substance

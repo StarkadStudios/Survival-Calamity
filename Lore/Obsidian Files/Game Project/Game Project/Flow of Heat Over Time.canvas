@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Current Day","id":"359453359def99b2","x":-84,"y":40,"width":235,"height":60},
+		{"type":"text","text":"# Timeline","id":"8cc377ec0b045d66","x":-57,"y":-100,"width":180,"height":60},
+		{"type":"text","text":"# Future","id":"7b9abdd4d5eaba77","x":620,"y":40,"width":160,"height":60},
+		{"type":"text","text":"Humanity uses Heat to an extreme degree and by releasing Heat, they increase the amount to Heat lost to dissipation. People are born with less and less Heat, slowly emptying [[Energy Reliquary]] and losing the ability to operate their Machinery. ","id":"f0415ee8e38dfbec","x":-735,"y":160,"width":322,"height":210},
+		{"type":"text","text":"The piece of *cold relic* is found in a cavern by [[Cade Bourghnois]] in one of the first non-Heat assisted expeditions to find important materials. All members are Thought COLD, but Cade Survived.","id":"38bf25f8d3e225af","x":-233,"y":180,"width":320,"height":180},
+		{"type":"text","text":"*Relic* forms core of [[Lellia]] and fills it with [[Heat]]. ","id":"35ffea3a787f9aaa","x":-1817,"y":320,"width":250,"height":60},
+		{"type":"text","text":"Heat feeds the growth of Flora & Fauna of Lellia. ","id":"0a6575bf9fc28c53","x":-1635,"y":480,"width":250,"height":70},
+		{"type":"text","text":"Humanity is created out of concentrated Heat and given sentience because of it.","id":"375216080da47cd6","x":-1454,"y":295,"width":272,"height":88},
+		{"type":"text","text":"Heat naturally dissipates because of the *cold relic* in space, but Heat power lasts long enough for humanity to build their domains.","id":"4993f30c784dbd0e","x":-1163,"y":200,"width":333,"height":120},
+		{"type":"text","text":"A piece of the *cold relic* appears on Lellia and begins to drain the world of Heat Faster","id":"4054f449a731bf9b","x":-1116,"y":375,"width":240,"height":125},
+		{"type":"text","text":"The [[Domains of Humanity]] fall and have new structures and societies build on top of them. Heat usage slows drastically cause of fear more Heat will be lost.","id":"b91454950aea9857","x":-480,"y":420,"width":320,"height":160},
+		{"type":"text","text":"# Beginning ","id":"e9a93fac06b210fe","x":-1817,"y":40,"width":208,"height":60}
+	],
+	"edges":[
+		{"id":"87615846e6fa4965","fromNode":"35ffea3a787f9aaa","fromSide":"right","toNode":"0a6575bf9fc28c53","toSide":"left"},
+		{"id":"68ecc20fbc37e28b","fromNode":"0a6575bf9fc28c53","fromSide":"right","toNode":"375216080da47cd6","toSide":"left"},
+		{"id":"d66bc8720ea619d0","fromNode":"375216080da47cd6","fromSide":"right","toNode":"4993f30c784dbd0e","toSide":"left"},
+		{"id":"d46825210503555a","fromNode":"4993f30c784dbd0e","fromSide":"right","toNode":"f0415ee8e38dfbec","toSide":"left"},
+		{"id":"77663663e84cbf86","fromNode":"f0415ee8e38dfbec","fromSide":"right","toNode":"b91454950aea9857","toSide":"left"},
+		{"id":"2b5fd7042a296f79","fromNode":"375216080da47cd6","fromSide":"right","toNode":"4054f449a731bf9b","toSide":"left"},
+		{"id":"a6fe20ca2e49d652","fromNode":"4054f449a731bf9b","fromSide":"right","toNode":"f0415ee8e38dfbec","toSide":"left"},
+		{"id":"bfa039e3eb963307","fromNode":"b91454950aea9857","fromSide":"right","toNode":"38bf25f8d3e225af","toSide":"left"}
+	]
+}
